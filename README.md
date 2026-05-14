@@ -107,3 +107,20 @@ daily-pulse/
 ## License
 
 MIT
+
+## Images
+**Briefing via Gemini API key**
+<img width="1916" height="691" alt="image" src="https://github.com/user-attachments/assets/831cc1a8-4539-4142-931c-c7872ea1716b" />
+-----------------
+**Adding Task manually and getting subtast with AI**
+<img width="1925" height="730" alt="image" src="https://github.com/user-attachments/assets/ec9fe74c-ef6a-4a6b-b6bf-f73716e35ada" />
+-----------------
+**Tavily MCP**
+<img width="1569" height="870" alt="image" src="https://github.com/user-attachments/assets/d7ab1b3f-4e44-4cc3-9b53-587a7711c625" />
+-----------------
+**Gemini API key**
+<img width="1642" height="353" alt="image" src="https://github.com/user-attachments/assets/7a104165-99a3-486f-b191-8492606b536e" />
+
+
+
+
