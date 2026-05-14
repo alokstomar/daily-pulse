@@ -1,0 +1,81 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "title": "Set up CI/CD pipeline for the project",
+    "subtasks": [
+      "Choose a CI/CD platform (GitHub Actions, GitLab CI, etc.)",
+      "Write a build and test workflow configuration file",
+      "Configure deployment to staging environment",
+      "Add status badges to the README"
+    ],
+    "completed": true,
+    "completed_at": "2026-05-12T20:16:21.213968+00:00",
+    "created_at": "2026-05-12T08:00:00+00:00"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+    "title": "Design database schema for user profiles",
+    "subtasks": [
+      "List all required user profile fields",
+      "Create an ER diagram for the schema",
+      "Write the SQL migration file",
+      "Add seed data for testing"
+    ],
+    "completed": true,
+    "completed_at": "2026-05-12T11:30:00+00:00",
+    "created_at": "2026-05-12T07:15:00+00:00"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+    "title": "Write unit tests for the auth module",
+    "subtasks": [
+      "Test login with valid credentials",
+      "Test login with invalid password",
+      "Test token refresh flow",
+      "Test account lockout after failed attempts",
+      "Test password reset email dispatch"
+    ],
+    "completed": true,
+    "completed_at": "2026-05-13T10:48:12.079916+00:00",
+    "created_at": "2026-05-12T09:45:00+00:00"
+  },
+  {
+    "id": "6bb4a1eb-6a61-4632-a1a7-662fe46cde44",
+    "title": "Complete a claude project",
+    "subtasks": [
+      "Clearly define the project's objective, target audience, and success criteria.",
+      "Craft an initial detailed prompt for Claude and outline the interaction strategy.",
+      "Generate and refine project outputs through multiple iterations with Claude.",
+      "Conduct a final review of all outputs against defined criteria and prepare for delivery."
+    ],
+    "completed": false,
+    "completed_at": null,
+    "created_at": "2026-05-12T19:18:19.369450+00:00"
+  },
+  {
+    "id": "fc471165-7a67-4c1e-91cf-dad4ce15be33",
+    "title": "Create a MCP",
+    "subtasks": [
+      "Define the core problem, target user, and primary goal for the MCP.",
+      "Identify and prioritize the absolute minimum features required to achieve the goal.",
+      "Design a simple user flow and create a low-fidelity prototype or mock-up.",
+      "Outline the plan for building, testing, and gathering initial feedback on the MCP."
+    ],
+    "completed": true,
+    "completed_at": "2026-05-13T10:49:05.543742+00:00",
+    "created_at": "2026-05-13T10:48:50.806518+00:00"
+  },
+  {
+    "id": "f2653a97-8a42-44d4-bf46-8f8a1c76b8df",
+    "title": "i have done my project",
+    "subtasks": [
+      "Conduct final quality assurance and fix any remaining bugs.",
+      "Complete or update all necessary project documentation.",
+      "Package and prepare all project deliverables for submission.",
+      "Notify relevant stakeholders of project completion and availability."
+    ],
+    "completed": true,
+    "completed_at": "2026-05-13T12:27:59.761755+00:00",
+    "created_at": "2026-05-13T12:27:53.861894+00:00"
+  }
+]

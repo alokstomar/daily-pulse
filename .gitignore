@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+.DS_Store
+*.tmp
+*.png
+notification_functions.py
+notification_patch.py
+notification_scheduler.py
+notification_service.py
+notification_test.py
+start_notification_service.py
+service.py.tmp
+.claude/
+.mcp.json
